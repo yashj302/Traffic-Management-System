@@ -20,7 +20,7 @@ shows respective vehicle count</br>
 
 Let intersection roads be like 1 2 3 4</br>
 </br>
-![alt text]()
+![alt text](https://github.com/yashj302/Traffic-Management-System/blob/master/Intersection%20Roads.png)
 
 T1 controlling the traffic lights that control lane 4th</br>
 Similarly T2 controlling lane 3</br>
