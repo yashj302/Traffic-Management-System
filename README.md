@@ -20,21 +20,7 @@ shows respective vehicle count</br>
 
 Let intersection roads be like 1 2 3 4</br>
 </br>
-               |        |</br>
-               |        |</br>
-               |        |</br>
-               |        |</br>
-               |  Lane1 |</br>
-   ____________T1        T2________________</br>
-
-   Lane 2                  Lane 4</br>
-   ____________T3        T4________________</br>
-
-               |        |</br>
-               |  Lane3 |</br>
-               |        |</br>
-               |        |</br>
-               |        |</br>
+![alt text]()
 
 T1 controlling the traffic lights that control lane 4th</br>
 Similarly T2 controlling lane 3</br>
